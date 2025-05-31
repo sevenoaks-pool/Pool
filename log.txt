@@ -1,1 +1,1 @@
-button 17 triggered at {time}
+time open {8:00}
