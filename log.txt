@@ -1,1 +1,1 @@
-remote change
+time open {8:00}
