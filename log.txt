@@ -1,1 +1,1 @@
-time close {8:00}
+time open {8:00}
